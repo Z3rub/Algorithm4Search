@@ -24,7 +24,7 @@ each reachable node.
 current node.
 
 * Depth-First Search
-- A depth-first search (DFS) explores a path all the way to a leaf before backtracking and exploring another path.
-- For example, after searching A, then B, then D, the search backtracks and tries another path from B.
-- Node are explored in the order A B D E H L M N I O P C F G J K Q
+A depth-first search (DFS) explores a path all the way to a leaf before backtracking and exploring another path.
+For example, after searching A, then B, then D, the search backtracks and tries another path from B.
+Node are explored in the order A B D E H L M N I O P C F G J K Q
 
