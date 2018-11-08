@@ -1,4 +1,4 @@
-# Algorithm4Search
+# Search Algorithms
 Breadth-first, depth-first and uniform-cost search Algorithms by C#
 
 * Breadth-First Search
