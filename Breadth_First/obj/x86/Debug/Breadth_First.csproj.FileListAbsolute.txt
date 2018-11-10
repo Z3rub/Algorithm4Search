@@ -6,3 +6,4 @@ F:\AI\Breadth_First\Breadth_First\obj\x86\Debug\Breadth_First.csproj.GenerateRes
 F:\AI\Breadth_First\Breadth_First\obj\x86\Debug\Breadth_First.exe
 F:\AI\Breadth_First\Breadth_First\obj\x86\Debug\Breadth_First.pdb
 F:\AI\Breadth_First\Breadth_First\obj\x86\Debug\Breadth_First.Uniform_Cost.resources
+F:\AI\Breadth_First\Breadth_First\obj\x86\Debug\Breadth_First.csprojResolveAssemblyReference.cache

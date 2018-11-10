@@ -8,12 +8,22 @@ namespace Breadth_First
     class Nod
     {
         List<Nod> Childern = new List<Nod>();
+        Nod Parent;
         String Data;
         int Distance;
         public Nod(String data, int distance) 
         {
             this.Set_Data(data);
             this.Set_Distance(distance);
+        }
+        // Set Parent
+        public void Set_Parent(Nod parent) 
+        {
+            this.Parent = parent;
+        }
+        public Nod Get_Parent()
+        {
+            return this.Parent;
         }
         // Set Childern
         public void New_Child(Nod child) 
@@ -62,7 +72,7 @@ namespace Breadth_First
             return this.Data;
         }
         // Set Distance
-        private void Set_Distance(int distance)
+        public void Set_Distance(int distance)
         {
             this.Distance = distance;
         }
