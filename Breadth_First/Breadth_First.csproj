@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="A_Star.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="A_Star.Designer.cs">
+      <DependentUpon>A_Star.cs</DependentUpon>
+    </Compile>
     <Compile Include="frm_Main.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -54,6 +60,7 @@
     </Compile>
     <Compile Include="Nod.cs" />
     <Compile Include="Node.cs" />
+    <Compile Include="Nude.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Uniform_Cost.cs">
@@ -62,6 +69,9 @@
     <Compile Include="Uniform_Cost.Designer.cs">
       <DependentUpon>Uniform_Cost.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="A_Star.resx">
+      <DependentUpon>A_Star.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frm_Main.resx">
       <DependentUpon>frm_Main.cs</DependentUpon>
     </EmbeddedResource>
@@ -73,6 +83,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="Uniform_Cost.resx">
       <DependentUpon>Uniform_Cost.cs</DependentUpon>
@@ -86,6 +97,18 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circle_0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circle_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circle_2.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

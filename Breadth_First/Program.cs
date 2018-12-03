@@ -15,7 +15,7 @@ namespace Breadth_First
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Uniform_Cost());
+            Application.Run(new A_Star());
         }
     }
 }

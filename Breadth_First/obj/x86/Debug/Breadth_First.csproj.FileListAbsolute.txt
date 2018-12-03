@@ -7,3 +7,13 @@ F:\AI\Breadth_First\Breadth_First\obj\x86\Debug\Breadth_First.exe
 F:\AI\Breadth_First\Breadth_First\obj\x86\Debug\Breadth_First.pdb
 F:\AI\Breadth_First\Breadth_First\obj\x86\Debug\Breadth_First.Uniform_Cost.resources
 F:\AI\Breadth_First\Breadth_First\obj\x86\Debug\Breadth_First.csprojResolveAssemblyReference.cache
+C:\Users\NextStep\Downloads\Compressed\Algorithm4Search-master\Breadth_First\obj\x86\Debug\Breadth_First.exe
+C:\Users\NextStep\Downloads\Compressed\Algorithm4Search-master\Breadth_First\obj\x86\Debug\Breadth_First.pdb
+C:\Users\NextStep\Downloads\Compressed\Algorithm4Search-master\Breadth_First\obj\x86\Debug\Breadth_First.csprojResolveAssemblyReference.cache
+C:\Users\NextStep\Downloads\Compressed\Algorithm4Search-master\Breadth_First\obj\x86\Debug\Breadth_First.A_Star.resources
+C:\Users\NextStep\Downloads\Compressed\Algorithm4Search-master\Breadth_First\obj\x86\Debug\Breadth_First.frm_Main.resources
+C:\Users\NextStep\Downloads\Compressed\Algorithm4Search-master\Breadth_First\obj\x86\Debug\Breadth_First.Properties.Resources.resources
+C:\Users\NextStep\Downloads\Compressed\Algorithm4Search-master\Breadth_First\obj\x86\Debug\Breadth_First.Uniform_Cost.resources
+C:\Users\NextStep\Downloads\Compressed\Algorithm4Search-master\Breadth_First\obj\x86\Debug\Breadth_First.csproj.GenerateResource.Cache
+C:\Users\NextStep\Downloads\Compressed\Algorithm4Search-master\Breadth_First\bin\Debug\Breadth_First.exe
+C:\Users\NextStep\Downloads\Compressed\Algorithm4Search-master\Breadth_First\bin\Debug\Breadth_First.pdb
